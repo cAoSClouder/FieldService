@@ -35,7 +35,7 @@ Maria adds the new field.
 
 1. Click ![Setup](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/dispatcher-console-for-admins/customize-dispatcher-console-settings/images/53883122f709cd0cabf9c39044235731_setup.png), then select **Setup**.
 2. Click **Object Manager**.
-3. Click **Service Resource**.
+3. Click **Service Resource**..
 4. Click **Field Sets**.
 5. Click **Resource Lightbox**.
 6. Drag the **Efficiency** field onto the layout. ![Object Manager showing the Efficiency field being dragged into the Resource Lightbox field set.](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/dispatcher-console-for-admins/customize-dispatcher-console-settings/images/f9880ce61322730e77a18081fbbee6f9_times-fields-2.png)
